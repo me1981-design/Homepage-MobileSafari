@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/infinitepower18/Homepage-MobileSafari)
+    ![GitHub](https://img.shields.io/github/license/infinitepower18/Homepage-MobileSafari)
 
 # Homepage for Safari iOS/visionOS
 
